@@ -1,5 +1,7 @@
 # Main menu announcement (same for the free and the Patreon version). Lines starting with # are ignored.
 # Write "show: no" to hide the announcement.
+# Two texts (=== 1 === free, === 2 === Patreon): the Patreon perks panel fills the second Patreon row.
+# Add === 3 === (with image3.jpg) for three texts: the Patreon perks then scroll in a ribbon.
 show: yes
 # itch.io badge link and Patreon badge link (empty = the game's default pages).
 itch: https://multi-hawk-studio.itch.io/monster-desire
@@ -24,5 +26,3 @@ image: image2.jpg
 ---
 Placeholder text for the first Patreon row. Lines next to each other
 stay in the same paragraph.
-
-# Add a third section (=== 3 ===, with image3.jpg) to show three texts; then the Patreon perks scroll in a ribbon.
