@@ -1,0 +1,28 @@
+# Main menu announcement (same for the free and the Patreon version). Lines starting with # are ignored.
+# Write "show: no" to hide the announcement.
+show: yes
+# itch.io badge link and Patreon badge link (empty = the game's default pages).
+itch: https://multi-hawk-studio.itch.io/monster-desire
+patreon:
+
+=== 1 ===
+# Top card (free version, itch.io)
+subtitle: FREE UPDATE
+title: PLACEHOLDER TITLE ONE
+image: image1.jpg
+---
+This is <b>placeholder text</b> for the top card. Write what is new in the free version here.
+
+- First test bullet
+- Second test bullet
+
+=== 2 ===
+# Bottom card, first row (Patreon)
+subtitle: PATREON
+title: PLACEHOLDER TITLE TWO
+image: image2.jpg
+---
+Placeholder text for the first Patreon row. Lines next to each other
+stay in the same paragraph.
+
+# Add a third section (=== 3 ===, with image3.jpg) to show three texts; then the Patreon perks scroll in a ribbon.
