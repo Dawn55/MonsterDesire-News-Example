@@ -10,19 +10,23 @@ patreon:
 === 1 ===
 # Top card (free version, itch.io)
 subtitle: FREE UPDATE
-title: PLACEHOLDER TITLE ONE
+title: VERSION 0.2 IS HERE
 image: image1.jpg
 ---
-This is <b>placeholder text</b> for the top card. Write what is new in the free version here.
-
-- First test bullet
-- Second test bullet
+- The Goblin Sisters side quest is now available
+- The Ancient Vampire side quest is now available
+- The talking, slightly crazy Oracle Mushroom is now available
 
 === 2 ===
 # Bottom card, first row (Patreon)
-subtitle: PATREON
-title: PLACEHOLDER TITLE TWO
+subtitle: PATREON EXCLUSIVE
+title: 2 NEW CREATURE TYPES
 image: image2.jpg
 ---
-Placeholder text for the first Patreon row. Lines next to each other
-stay in the same paragraph.
+<b>Over 100 new images!</b>
+- Reptile Girls are now available
+- Ghost Girls are now available
+- New side quest: solve the mystery of the crashed helicopter and the bird
+- Find the downed pilot and help out
+- New balance changes
+- Bug fixes
